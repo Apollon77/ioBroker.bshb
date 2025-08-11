@@ -21,7 +21,7 @@
     "node": ">= 18"
   },
   "dependencies": {
-    "@iobroker/adapter-core": "3.2.3",
+    "@iobroker/adapter-core": "3.3.1",
     "bosch-smart-home-bridge": "1.7.31",
     "rxjs": "7.8.2"
   },
